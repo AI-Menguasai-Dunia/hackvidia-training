@@ -1,26 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## 1. Installasi dan Running 
+- **Download Node.js** dari: https://nodejs.org/en
+- Verifikasi dengan menjalankan
+- ```
+  node -v
+  npm -v
+  ```
+## 2. Clone Repository
+- Clone repository dengan
+  ```
+  git clone https://github.com/AI-Menguasai-Dunia/hackvidia-training.git
+  ```
+- masuk ke folder projek
+  ```
+  cd hackvidia-training
+  ```
+- install npm
+  ```
+  npm install
+  ```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
+## 3. Run Project
+- Run Project
+  ```
+  npm run dev
+  ```
+- Akses project melalui browser
+  ```
+  http://localhost:300
+  ```
 
 To learn more about Next.js, take a look at the following resources:
 
