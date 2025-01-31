@@ -8,6 +8,7 @@
   npm -v
   ```
 ## 2. Clone Repository
+- Pilih branch develop
 - Clone repository dengan
   ```
   git clone https://github.com/AI-Menguasai-Dunia/hackvidia-training.git
